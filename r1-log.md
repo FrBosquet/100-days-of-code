@@ -10,3 +10,6 @@ https://github.com/FrBosquet/franpress/commit/6bd931115b33408d42fbc0fc0a335ee418
 
 ### R1D2
 I finalished my navigation header and started working on the option box for my posts.
+
+### R1D3
+I finished with the icon system and now all the icons works properly. I messed up a bit with the svg, so it deserves a future refactor. Pretty happy about it anyway.
