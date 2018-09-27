@@ -13,3 +13,7 @@ I finalished my navigation header and started working on the option box for my p
 
 ### R1D3
 I finished with the icon system and now all the icons works properly. I messed up a bit with the svg, so it deserves a future refactor. Pretty happy about it anyway.
+
+### R1D4
+Today i woke up earlier to complete my daily commitment. I added the copy of the page and the noisy bg, so the page is completed. Also, tweaked the shadows to make it feel more natural and added a drow shadow over the bg image.
+https://github.com/FrBosquet/franpress/commit/c142469c2319a662eef335ab28893280c47aaf58
