@@ -17,3 +17,7 @@ I finished with the icon system and now all the icons works properly. I messed u
 ### R1D4
 Today i woke up earlier to complete my daily commitment. I added the copy of the page and the noisy bg, so the page is completed. Also, tweaked the shadows to make it feel more natural and added a drow shadow over the bg image.
 https://github.com/FrBosquet/franpress/commit/c142469c2319a662eef335ab28893280c47aaf58
+
+### R1D5
+I introduced a darkmode to the header and improved my linter configuration. The rest of the time i worked on my blog post entry about this mockup phase.
+https://github.com/FrBosquet/franpress/commit/a6347363ea7dbb14f5f95c718cf61cfe824f7f1d
