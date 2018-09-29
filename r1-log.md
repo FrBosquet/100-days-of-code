@@ -21,3 +21,7 @@ https://github.com/FrBosquet/franpress/commit/c142469c2319a662eef335ab28893280c4
 ### R1D5
 I introduced a darkmode to the header and improved my linter configuration. The rest of the time i worked on my blog post entry about this mockup phase.
 https://github.com/FrBosquet/franpress/commit/a6347363ea7dbb14f5f95c718cf61cfe824f7f1d
+
+### R1D6
+Today i begun to provide mock data to my components using recompose to build hocs.
+https://github.com/FrBosquet/franpress/commits/chapter-4
