@@ -25,3 +25,6 @@ https://github.com/FrBosquet/franpress/commit/a6347363ea7dbb14f5f95c718cf61cfe82
 ### R1D6
 Today i begun to provide mock data to my components using recompose to build hocs.
 https://github.com/FrBosquet/franpress/commits/chapter-4
+
+### R1D7
+I implemented a crappy JSON format to describe a post content and its formating, and a first parser. Much to work and extend here, but it does work as long as you dont nest strongs inside ems or any other combination.
