@@ -28,3 +28,7 @@ https://github.com/FrBosquet/franpress/commits/chapter-4
 
 ### R1D7
 I implemented a crappy JSON format to describe a post content and its formating, and a first parser. Much to work and extend here, but it does work as long as you dont nest strongs inside ems or any other combination.
+
+### R1D8
+I added three more content types to the body of my posts: Images, subtitles and list. I also worked on revamping my yesterday algorithm to go from text to nodes to be able to next strongs, ems and a tags, but sadly it didnt work. Ill try again tomorrow
+https://github.com/FrBosquet/franpress/commit/0808a7ab441d8c40f315573bbeb62b061380f203
