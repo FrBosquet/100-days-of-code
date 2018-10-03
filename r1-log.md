@@ -32,3 +32,7 @@ I implemented a crappy JSON format to describe a post content and its formating,
 ### R1D8
 I added three more content types to the body of my posts: Images, subtitles and list. I also worked on revamping my yesterday algorithm to go from text to nodes to be able to next strongs, ems and a tags, but sadly it didnt work. Ill try again tomorrow
 https://github.com/FrBosquet/franpress/commit/0808a7ab441d8c40f315573bbeb62b061380f203
+
+### R1D9
+Today i worked in the text parser implementing a test suite using jest
+https://github.com/FrBosquet/franpress/commit/16ff0503adb41728e2c55816018f8a0ba25aa072
