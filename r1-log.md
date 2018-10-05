@@ -34,13 +34,16 @@ I added three more content types to the body of my posts: Images, subtitles and 
 https://github.com/FrBosquet/franpress/commit/0808a7ab441d8c40f315573bbeb62b061380f203
 
 ### R1D9
+I commited nothing today. I worked in an algorithm in Repl.it
+
+### R1D10
 Today i worked in the text parser implementing a test suite using jest
 https://github.com/FrBosquet/franpress/commit/16ff0503adb41728e2c55816018f8a0ba25aa072
 
-### R1D10
+### R1D11
 Second day using tdd to implement a text parsing algorithm. Very fun to do and a lot of progress, im near success for the custom text parsing.
 https://github.com/FrBosquet/franpress/commit/83371801093b1776e8c19f69de6b3ccd49431899
 
-### R1D11
+### R1D12
 I woke up early to work on my text parsing algorithm and finally ITS DONE. This has been tought, but using tdd and jest has made everything easier. Good lesson i got there. Now i will move forward and render some components using that output.
 https://github.com/FrBosquet/franpress/commit/6536c06cb7c6259b29eb9ade598dd2a6024d82da
