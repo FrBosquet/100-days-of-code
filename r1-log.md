@@ -36,3 +36,7 @@ https://github.com/FrBosquet/franpress/commit/0808a7ab441d8c40f315573bbeb62b0613
 ### R1D9
 Today i worked in the text parser implementing a test suite using jest
 https://github.com/FrBosquet/franpress/commit/16ff0503adb41728e2c55816018f8a0ba25aa072
+
+### R1D10
+Second day using tdd to implement a text parsing algorithm. Very fun to do and a lot of progress, im near success for the custom text parsing.
+https://github.com/FrBosquet/franpress/commit/83371801093b1776e8c19f69de6b3ccd49431899
