@@ -47,3 +47,7 @@ https://github.com/FrBosquet/franpress/commit/83371801093b1776e8c19f69de6b3ccd49
 ### R1D12
 I woke up early to work on my text parsing algorithm and finally ITS DONE. This has been tought, but using tdd and jest has made everything easier. Good lesson i got there. Now i will move forward and render some components using that output.
 https://github.com/FrBosquet/franpress/commit/6536c06cb7c6259b29eb9ade598dd2a6024d82da
+
+### R1D13
+Today i cleaned the text parser and added asset injection for the link urls. Also, i implemented the react rendering of the generated nodes. Very good day so far.
+https://github.com/FrBosquet/franpress/commit/ca9d39149926b032ce2ba6199a17ccf560eeae04
