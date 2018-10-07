@@ -51,3 +51,7 @@ https://github.com/FrBosquet/franpress/commit/6536c06cb7c6259b29eb9ade598dd2a602
 ### R1D13
 Today i cleaned the text parser and added asset injection for the link urls. Also, i implemented the react rendering of the generated nodes. Very good day so far.
 https://github.com/FrBosquet/franpress/commit/ca9d39149926b032ce2ba6199a17ccf560eeae04
+
+### R1D14
+Today i used and event listener to get the scroll height in my page and update the section selected and the header color
+https://github.com/FrBosquet/franpress/commit/a6a7aa76795b876fd37f9d77eeaa2c02aa7eb96c
