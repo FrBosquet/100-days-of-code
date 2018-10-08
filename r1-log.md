@@ -55,3 +55,6 @@ https://github.com/FrBosquet/franpress/commit/ca9d39149926b032ce2ba6199a17ccf560
 ### R1D14
 Today i used and event listener to get the scroll height in my page and update the section selected and the header color
 https://github.com/FrBosquet/franpress/commit/a6a7aa76795b876fd37f9d77eeaa2c02aa7eb96c
+
+### R1D15
+Today i spent some time writing what i have done to build the blog mock components in my current blog
