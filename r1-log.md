@@ -58,3 +58,6 @@ https://github.com/FrBosquet/franpress/commit/a6a7aa76795b876fd37f9d77eeaa2c02aa
 
 ### R1D15
 Today i spent some time writing what i have done to build the blog mock components in my current blog
+
+### R1D16
+Today i finished the blogpost about the component mocking in my blog project and its online in www.franbosquet.com
