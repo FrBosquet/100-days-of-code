@@ -61,3 +61,7 @@ Today i spent some time writing what i have done to build the blog mock componen
 
 ### R1D16
 Today i finished the blogpost about the component mocking in my blog project and its online in www.franbosquet.com
+
+### R1D17
+I added an apollo graphql server and started working on the post type. Tomorrow ill try to connect the client to retrieve data from this server.
+https://github.com/FrBosquet/franpress/commit/0fc9b8b6e7379b34d6df51baf66c9f4ff04f6cdb
