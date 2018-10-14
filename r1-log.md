@@ -69,3 +69,8 @@ https://github.com/FrBosquet/franpress/commit/0fc9b8b6e7379b34d6df51baf66c9f4ff0
 ### R1D18
 I connected my app to my apollo server and now all the rendered data is coming from there, no more mock data. Also i make the navigation items depends of the entry content (the where mocked too) and make some cosmetic changes.
 https://github.com/FrBosquet/franpress/commit/098885d4b428df2b714d3051b60a4d39970fe428
+
+### FREE DAY - 13 OCT 18
+I go for a walk in the guadarrama mountains and spent the day with friends
+
+### R1D19
