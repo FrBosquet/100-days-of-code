@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Fran Bosquet
 
 The log of my #100DaysOfCode challenge. Started on [September 24, Monday, 2018].
 
@@ -76,3 +76,7 @@ I go for a walk in the guadarrama mountains and spent the day with friends
 ### R1D19
 Today i started the implementation of a local state in apollo. I found the docs pretty confusing and im not happy how is working, but i have my first local query working. Hope its get better with practice
 https://github.com/FrBosquet/franpress/commit/b9911a5ca05ab3465b21f490b0494676ec7089de
+
+### R1D20
+I used the local state to decide wich post i have to query from apollo
+https://github.com/FrBosquet/franpress/commit/914b292e8aba7aca5820bf474fe7730cb897974a
