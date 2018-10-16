@@ -80,3 +80,7 @@ https://github.com/FrBosquet/franpress/commit/b9911a5ca05ab3465b21f490b0494676ec
 ### R1D20
 I used the local state to decide wich post i have to query from apollo
 https://github.com/FrBosquet/franpress/commit/914b292e8aba7aca5820bf474fe7730cb897974a
+
+### R1D21
+I used a mutation to change the local state
+https://github.com/FrBosquet/franpress/commit/28e6701df188d4e80e0f4dd6500bf4c1451344f5
