@@ -84,3 +84,7 @@ https://github.com/FrBosquet/franpress/commit/914b292e8aba7aca5820bf474fe7730cb8
 ### R1D21
 I used a mutation to change the local state
 https://github.com/FrBosquet/franpress/commit/28e6701df188d4e80e0f4dd6500bf4c1451344f5
+
+### R1D22
+I implemented the post navigation so i can go to next and prev post. Also, i disabled the next/prev button qhen in the last or first post.
+https://github.com/FrBosquet/franpress/commit/ad6254b48e7508c1e518207743b38605531c2b00
