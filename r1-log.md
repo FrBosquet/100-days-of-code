@@ -88,3 +88,6 @@ https://github.com/FrBosquet/franpress/commit/28e6701df188d4e80e0f4dd6500bf4c145
 ### R1D22
 I implemented the post navigation so i can go to next and prev post. Also, i disabled the next/prev button qhen in the last or first post.
 https://github.com/FrBosquet/franpress/commit/ad6254b48e7508c1e518207743b38605531c2b00
+
+### R1D23
+Today i created a trello board to organize my work and writed down some paragraphs in the blog about last week work. Not actually code, but for me its part of my code project so... code :D
