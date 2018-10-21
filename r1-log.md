@@ -98,3 +98,7 @@ https://github.com/FrBosquet/franpress/commit/ebe1efe8b85f254ce5066006ad323b7bdb
 
 ### R1D25
 I improved the "spinner" icon, added an animated fade screen and pushed all of that to the main view so its show while apollo is loading
+
+### R1D26
+I added a custom background, icon and date for each post. Now post are ordered cronologically by a timestamp, so the nextProp and prevPost are calculated dinamically.
+https://github.com/FrBosquet/franpress/commit/9a478da0023b6f6fb63ebe79ff2bb92b1d815cc4
