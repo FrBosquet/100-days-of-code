@@ -91,3 +91,7 @@ https://github.com/FrBosquet/franpress/commit/ad6254b48e7508c1e518207743b3860553
 
 ### R1D23
 Today i created a trello board to organize my work and writed down some paragraphs in the blog about last week work. Not actually code, but for me its part of my code project so... code :D
+
+### R1D24
+I added storybook to my project and worked on an animated icon which is going to work as a spinner.
+https://github.com/FrBosquet/franpress/commit/ebe1efe8b85f254ce5066006ad323b7bdbe00295
