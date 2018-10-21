@@ -95,3 +95,6 @@ Today i created a trello board to organize my work and writed down some paragrap
 ### R1D24
 I added storybook to my project and worked on an animated icon which is going to work as a spinner.
 https://github.com/FrBosquet/franpress/commit/ebe1efe8b85f254ce5066006ad323b7bdbe00295
+
+### R1D25
+I improved the "spinner" icon, added an animated fade screen and pushed all of that to the main view so its show while apollo is loading
