@@ -105,3 +105,7 @@ https://github.com/FrBosquet/franpress/commit/9a478da0023b6f6fb63ebe79ff2bb92b1d
 
 ### R1D27
 I studied about tensorflow and machinelearning. I wrote in the blog
+
+### R1D28
+Today i get more into tensorflow and developed a very primitive line predictor. Also, i published a tecnical article in the blog.
+https://codepen.io/FrBosquet/pen/wYEmad
