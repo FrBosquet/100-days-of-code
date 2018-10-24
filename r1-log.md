@@ -55,7 +55,7 @@ https://github.com/FrBosquet/franpress/commit/ca9d39149926b032ce2ba6199a17ccf560
 ### R1D14
 Today i used and event listener to get the scroll height in my page and update the section selected and the header color
 https://github.com/FrBosquet/franpress/commit/a6a7aa76795b876fd37f9d77eeaa2c02aa7eb96c
-
+R1D2
 ### R1D15
 Today i spent some time writing what i have done to build the blog mock components in my current blog
 
@@ -109,3 +109,7 @@ I studied about tensorflow and machinelearning. I wrote in the blog
 ### R1D28
 Today i get more into tensorflow and developed a very primitive line predictor. Also, i published a tecnical article in the blog.
 https://codepen.io/FrBosquet/pen/wYEmad
+
+### R1D29
+I solved some katas at codewars.com, i did some tutorials on tensorflowjs and implemented a database for my blog and the consequent mutators in graphql to handle it. No more mocked data in json
+https://github.com/FrBosquet/franpress/commit/3cf12da37daa94d572238db401b2dd5dc6da9f3f
