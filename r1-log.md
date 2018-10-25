@@ -113,3 +113,7 @@ https://codepen.io/FrBosquet/pen/wYEmad
 ### R1D29
 I solved some katas at codewars.com, i did some tutorials on tensorflowjs and implemented a database for my blog and the consequent mutators in graphql to handle it. No more mocked data in json
 https://github.com/FrBosquet/franpress/commit/3cf12da37daa94d572238db401b2dd5dc6da9f3f
+
+### R1D30
+I designed a component to host my list of posts and begun to implement it as a React component. Also I blown my mind comnpletely by completing the "Maker of things" kata in codewars, a crazy one abot JS metaprograming.
+https://github.com/FrBosquet/franpress/commit/6500f555b9e573413bc47184f1a8e740eeb83eae
