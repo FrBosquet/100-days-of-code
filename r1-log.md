@@ -117,3 +117,7 @@ https://github.com/FrBosquet/franpress/commit/3cf12da37daa94d572238db401b2dd5dc6
 ### R1D30
 I designed a component to host my list of posts and begun to implement it as a React component. Also I blown my mind comnpletely by completing the "Maker of things" kata in codewars, a crazy one abot JS metaprograming.
 https://github.com/FrBosquet/franpress/commit/6500f555b9e573413bc47184f1a8e740eeb83eae
+
+### R1D31
+Solved a kata and worked with D Torrijos in a new React 360 project
+
