@@ -121,3 +121,6 @@ https://github.com/FrBosquet/franpress/commit/6500f555b9e573413bc47184f1a8e740ee
 ### R1D31
 Solved a kata and worked with D Torrijos in a new React 360 project
 
+### R1D32
+Worked with A Chacón in our new react turn based RPG
+https://github.com/AdrianChacon/FightToDeath/commit/3e392ea8b9de40ffb8ff3218b8c2904ef033a226
