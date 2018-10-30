@@ -128,3 +128,8 @@ https://github.com/AdrianChacon/FightToDeath/commit/3e392ea8b9de40ffb8ff3218b8c2
 ### R1D33
 Played with React 360
 https://github.com/FrBosquet/r360-playground/commit/2c2b7f79794ac8a99a354b3c41e2581a4d95b631
+
+### R1D34
+Im working in a vanilla canvas beerpong game
+https://github.com/FrBosquet/beerpong-canvas/commit/f5cce446e5d43c233b0bcf27f7fae5ea272c2fac
+
