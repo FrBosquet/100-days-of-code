@@ -133,3 +133,6 @@ https://github.com/FrBosquet/r360-playground/commit/2c2b7f79794ac8a99a354b3c41e2
 Im working in a vanilla canvas beerpong game
 https://github.com/FrBosquet/beerpong-canvas/commit/f5cce446e5d43c233b0bcf27f7fae5ea272c2fac
 
+### R1D35
+I completed the basic functionality for the beerpong game
+https://github.com/FrBosquet/beerpong-canvas/commit/2d00e11ec2556ac973605ee53b3412823c02cbe4
