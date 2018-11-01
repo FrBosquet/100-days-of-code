@@ -136,3 +136,8 @@ https://github.com/FrBosquet/beerpong-canvas/commit/f5cce446e5d43c233b0bcf27f7fa
 ### R1D35
 I completed the basic functionality for the beerpong game
 https://github.com/FrBosquet/beerpong-canvas/commit/2d00e11ec2556ac973605ee53b3412823c02cbe4
+
+### R1D36
+Refactoring my canvas beer pong so I can reuse the game logic in React 360
+https://github.com/FrBosquet/beerpong-canvas/commit/2106e9b755f02124da6888ab9435102c635f33ab
+
