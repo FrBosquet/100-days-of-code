@@ -141,3 +141,6 @@ https://github.com/FrBosquet/beerpong-canvas/commit/2d00e11ec2556ac973605ee53b34
 Refactoring my canvas beer pong so I can reuse the game logic in React 360
 https://github.com/FrBosquet/beerpong-canvas/commit/2106e9b755f02124da6888ab9435102c635f33ab
 
+### R1D37
+Worked in the stylebook of Fight To Death and abstracted some component structures in complex components
+https://github.com/AdrianChacon/FightToDeath/commit/9d64f43a7f6a2497076c7097cc301001c7b3041b
