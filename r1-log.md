@@ -144,3 +144,10 @@ https://github.com/FrBosquet/beerpong-canvas/commit/2106e9b755f02124da6888ab9435
 ### R1D37
 Worked in the stylebook of Fight To Death and abstracted some component structures in complex components
 https://github.com/AdrianChacon/FightToDeath/commit/9d64f43a7f6a2497076c7097cc301001c7b3041b
+
+### FREE DAY - 2 NOV 18
+Get out on a short vacation to Bocigas de Perales with friends. No time to code today.
+
+### R1D38
+Started to design the fighter spec for the core game system using jest and tdd
+https://github.com/AdrianChacon/FightToDeath/commit/7037847dfe9686a8705626e391e827e1500f71e0
