@@ -151,3 +151,8 @@ Get out on a short vacation to Bocigas de Perales with friends. No time to code 
 ### R1D38
 Started to design the fighter spec for the core game system using jest and tdd
 https://github.com/AdrianChacon/FightToDeath/commit/7037847dfe9686a8705626e391e827e1500f71e0
+
+### R1D29
+Continued developing features for the core game system of Fight to death
+using jest and tdd
+https://github.com/AdrianChacon/FightToDeath/commit/53c9e204ed56f324354f283ff324ba8c632358e7
