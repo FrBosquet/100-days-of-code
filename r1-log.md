@@ -160,3 +160,7 @@ https://github.com/AdrianChacon/FightToDeath/commit/53c9e204ed56f324354f283ff324
 ### R1D40
 More features on the fighter class for the FightToDeath core fighting system. So much fun and advancing at good pace, passed 50% of the things i want it to have before passing to the next class (probably party)
 https://github.com/AdrianChacon/FightToDeath/commit/c9d33a2fe808afb0f486e3e1f32be366068ff430
+
+### R1D41
+Worked with @pastoruk in our login for fight to death. Also added more functionality to the fighter class, which is almost complete. Very nice and productive day
+https://github.com/AdrianChacon/FightToDeath/commit/44d87eea4459455065bab2c76dde4b9245a77e65
