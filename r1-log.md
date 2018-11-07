@@ -164,3 +164,7 @@ https://github.com/AdrianChacon/FightToDeath/commit/c9d33a2fe808afb0f486e3e1f32b
 ### R1D41
 Worked with @pastoruk in our login for fight to death. Also added more functionality to the fighter class, which is almost complete. Very nice and productive day
 https://github.com/AdrianChacon/FightToDeath/commit/44d87eea4459455065bab2c76dde4b9245a77e65
+
+### R1D42
+Added stackable effects to the fighter
+https://github.com/AdrianChacon/FightToDeath/commit/485769e0eb08f139bbabb5a0456bdb66b1cf5899
