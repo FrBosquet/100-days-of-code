@@ -168,3 +168,6 @@ https://github.com/AdrianChacon/FightToDeath/commit/44d87eea4459455065bab2c76dde
 ### R1D42
 Added stackable effects to the fighter
 https://github.com/AdrianChacon/FightToDeath/commit/485769e0eb08f139bbabb5a0456bdb66b1cf5899
+
+### R1D43
+I completed this kata in codewars https://www.codewars.com/kata/assembler-interpreter-part-ii/javascript
