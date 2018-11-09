@@ -171,3 +171,6 @@ https://github.com/AdrianChacon/FightToDeath/commit/485769e0eb08f139bbabb5a0456b
 
 ### R1D43
 I completed this kata in codewars https://www.codewars.com/kata/assembler-interpreter-part-ii/javascript
+
+### R1D44
+Worked in VeeRPong with David, trying to figure out how it works. Also, completed more tasks in FightToDeath.
