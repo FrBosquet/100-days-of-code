@@ -174,3 +174,7 @@ I completed this kata in codewars https://www.codewars.com/kata/assembler-interp
 
 ### R1D44
 Worked in VeeRPong with David, trying to figure out how it works. Also, completed more tasks in FightToDeath.
+
+### R1D45
+Advanced more into fighter definition for our RPG FightToDeath (provisional name) adding skills and perks
+https://github.com/AdrianChacon/FightToDeath/commit/0b50a31ba74161557ac5006a2e171f66843fcde5
