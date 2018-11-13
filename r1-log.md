@@ -182,3 +182,9 @@ https://github.com/AdrianChacon/FightToDeath/commit/0b50a31ba74161557ac5006a2e17
 ### R1D46
 Added the turn logic to the fighter class. Only thing left is to add some triggers and some random tests and its done.
 https://github.com/AdrianChacon/FightToDeath/commit/6d3b68a65d7f758773845811e6932c742ad4f53f
+
+### FREE DAY - 12 NOV 18
+Too tired to code
+
+### R1D47
+Added some random test to tie up everything togueter. Also, added some additional effects to items and perks
