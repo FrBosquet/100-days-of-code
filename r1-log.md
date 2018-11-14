@@ -188,3 +188,7 @@ Too tired to code
 
 ### R1D47
 Added some random test to tie up everything togueter. Also, added some additional effects to items and perks
+
+### R1D48
+Started working on fighter crews/partys and the inventory system
+https://github.com/AdrianChacon/FightToDeath/commit/607d20f7ec4642a8f3f6869bb9a96b22878f649e
